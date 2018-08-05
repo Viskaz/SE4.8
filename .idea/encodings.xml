@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/4.26验收/src/AdminLoginGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.26验收/src/SetPriceDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/4.26验收/src/SetPriceDialog2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.26验收/src/SetPriceGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5-13号（周睿去掉星期）/test/UserDAOTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5月1号薛梦佳调整好/src/AccountManagementGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5月1号薛梦佳调整好/src/ChangePasswordGUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5月1号薛梦佳调整好/src/UserLoginGUI.java" charset="UTF-8" />
+  </component>
+</project>
